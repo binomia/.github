@@ -1,25 +1,12 @@
-## Hi there 👋
+## Hi there 🔥
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Binomia
-
-## 🚀 Transforming Financial Services in the Dominican Republic
+### 🚀 Transforming Financial Services in the Dominican Republic
 
 Binomia is an innovative financial technology application that revolutionizes how Dominicans manage their payments. Our platform allows seamless peer-to-peer (P2P) money transfers, payments for essential services like electricity, water, internet, cable, university tuition, and in-store purchases at restaurants, gas stations, supermarkets, and more.
 
 We provide businesses with modernized payment solutions without the need for expensive equipment, facilitating transactions with telecom providers, universities, and utility companies. Additionally, we are expanding partnerships with supermarkets and retail stores, enabling users to shop online and receive deliveries at home.
 
-## How to Contribute?
+### How to Contribute?
 
 We welcome developers, financial experts, and innovators who want to contribute to Binomia’s growth. Here’s how you can get involved:
 	•	💡 Developers: Contribute to our backend infrastructure, improve payment processing, or enhance security features.
@@ -29,13 +16,13 @@ We welcome developers, financial experts, and innovators who want to contribute 
 
 Interested? Open an issue or submit a pull request on our GitHub repository!
 
-## 👩‍💻 Resources
+### 👩‍💻 Resources
 
 📖 Documentation: [Coming soon]
 📩 Support: Contact brayhandeaza@gmail.com
 📢 Updates & Community: Follow us on Social Media
 
-## ☁️ Infrastructure – AWS-Powered Scalability
+### ☁️ Infrastructure – AWS-Powered Scalability
 
 Binomia runs on Amazon Web Services (AWS), utilizing Kubernetes (EKS), EC2 instances, RDS (PostgreSQL), ElastiCache (Redis), and S3 storage to ensure a highly available, scalable, and secure platform.
 
@@ -50,7 +37,7 @@ Data Transfer	5TB/month	$102.40
 Other Services	Messaging, Rekognition, Lambda	$500.00
 Total	_	$1,480.34
 
-## 🧙 Let’s Build the Future of Digital Payments Together!
+### 🧙 Let’s Build the Future of Digital Payments Together!
 
 With Binomia, we’re making payments simpler, safer, and more accessible for everyone. Whether you’re a developer, business, or end-user, there’s a place for you in our ecosystem.
 
