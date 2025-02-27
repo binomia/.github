@@ -10,9 +10,9 @@ We provide businesses with modernized payment solutions without the need for exp
 ### How to Contribute?
 
 We welcome developers, financial experts, and innovators who want to contribute to Binomia’s growth. Here’s how you can get involved:
-	•	💡 Developers: Contribute to our backend infrastructure, improve payment processing, or enhance security features.
-	•	📊 Finance & Business Experts: Help optimize our revenue model and expand financial inclusion.
-	•	📢 Marketing & Community Builders: Spread awareness and increase adoption among users and merchants.
+	•	💡 Developers: Contribute to our backend infrastructure, improve payment processing, or enhance security features. <br>
+	•	📊 Finance & Business Experts: Help optimize our revenue model and expand financial inclusion.<br>
+	•	📢 Marketing & Community Builders: Spread awareness and increase adoption among users and merchants.<br>
 	•	🛠 Feedback & Testing: Try out the app and report issues or suggest improvements.
 
 ##
