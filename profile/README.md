@@ -16,6 +16,7 @@ We welcome developers, financial experts, and innovators who want to contribute 
 
 Interested? Open an issue or submit a pull request on our GitHub repository!
 
+##
 ### 👩‍💻 Resources
 
 📖 Documentation: [Coming soon]
