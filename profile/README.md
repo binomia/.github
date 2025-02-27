@@ -6,6 +6,7 @@ Binomia is an innovative financial technology application that revolutionizes ho
 
 We provide businesses with modernized payment solutions without the need for expensive equipment, facilitating transactions with telecom providers, universities, and utility companies. Additionally, we are expanding partnerships with supermarkets and retail stores, enabling users to shop online and receive deliveries at home.
 
+##
 ### How to Contribute?
 
 We welcome developers, financial experts, and innovators who want to contribute to Binomia’s growth. Here’s how you can get involved:
@@ -14,17 +15,13 @@ We welcome developers, financial experts, and innovators who want to contribute 
 	•	📢 Marketing & Community Builders: Spread awareness and increase adoption among users and merchants.
 	•	🛠 Feedback & Testing: Try out the app and report issues or suggest improvements.
 
-Interested? Open an issue or submit a pull request on our GitHub repository!
-
 ##
 ### 👩‍💻 Resources
-
 📖 Documentation: [Coming soon]
 📩 Support: Contact brayhandeaza@gmail.com
 📢 Updates & Community: Follow us on Social Media
 
 ### ☁️ Infrastructure – AWS-Powered Scalability
-
 Binomia runs on Amazon Web Services (AWS), utilizing Kubernetes (EKS), EC2 instances, RDS (PostgreSQL), ElastiCache (Redis), and S3 storage to ensure a highly available, scalable, and secure platform.
 
 Service	Details	Monthly Cost
